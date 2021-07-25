@@ -1,0 +1,28 @@
+h1{
+    color: indigo;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+
+#parrafo1{
+    color: chartreuse;
+    background-color: blueviolet;
+}
+
+
+
+li{
+    font-size: normal;
+    font-style: oblique; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: thistle;
+}
+
+p{
+    font-size: 25px;
+}
